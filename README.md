@@ -1,0 +1,1 @@
+# eltrade-cc300-driver-odoo
